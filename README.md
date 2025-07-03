@@ -1,6 +1,6 @@
 # ⚔️ Batalla de Pelotas: Juego Personalizable en Pygame
 
-Este es un juego multijugador 1v1 desarrollado con **Python** y **Pygame**, donde dos jugadores controlan pelotas que pueden chocar, recoger sierras y causarse daño hasta que uno gane. Cuenta con personalización de skins, nombres, efectos visuales, sonidos y una interfaz interactiva.
+Este es un juego de pelea 1v1 desarrollado con **Python** y **Pygame**, donde dos pelotas se mueven aleatoriamente que pueden chocar, recoger sierras y causarse daño hasta que uno gane. Cuenta con personalización de skins, nombres, efectos visuales, sonidos y una interfaz interactiva.
 
 ---
 
