@@ -20,6 +20,7 @@ Este es un juego multijugador 1v1 desarrollado con **Python** y **Pygame**, dond
 
 - Python 3.7+
 - Pygame
+- Numpy
 
 Puedes instalar las dependencias necesarias con:
 
