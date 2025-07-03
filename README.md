@@ -16,12 +16,6 @@ Este es un juego multijugador 1v1 desarrollado con **Python** y **Pygame**, dond
 
 ---
 
-## 📸 Capturas
-
-![Captura del juego](img/demo.png) <!-- Si tienes una imagen de ejemplo -->
-
----
-
 ## 🛠️ Requisitos
 
 - Python 3.7+
@@ -31,3 +25,4 @@ Puedes instalar las dependencias necesarias con:
 
 ```bash
 pip install pygame
+pip install numpy
